@@ -6,7 +6,7 @@
 
 <br />
 <p align="center">
-  <h3 align="center">Hide Chat Initiative - Gaming Table module for FoundryVTT</h3>
+  <h3 align="center">Hide Chat Initiative - Add-on module for FoundryVTT</h3>
   <p align="center">
     A simple module for FoundryVTT to hide core-initiative rolls in the chat panel.
     <br />
