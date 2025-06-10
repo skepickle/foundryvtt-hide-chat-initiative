@@ -21,7 +21,7 @@ Hide Chat Initiative is a module for Foundry VTT by Skepickle and is licensed un
 
 This work is licensed under Foundry Virtual Tabletop [EULA - Limited License Agreement for module development from May 29, 2020](https://foundryvtt.com/article/license/).
 
-[foundry-shield]: https://img.shields.io/badge/Foundry-v10-informational
+[foundry-shield]: https://img.shields.io/badge/Foundry-v13-informational
 [foundry-url]: https://foundryvtt.com/
 [forks-shield]: https://img.shields.io/github/forks/skepickle/foundryvtt-hide-chat-initiative.svg?style=flat-square
 [forks-url]: https://github.com/skepickle/foundryvtt-hide-chat-initiative/network/members
